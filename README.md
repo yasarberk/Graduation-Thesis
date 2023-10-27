@@ -1,6 +1,8 @@
 # Graduation Thesis
+## EFFICIENT OBJECT DETECTION AND TRACKING SYSTEM USING DEEP LEARNING FOR ENHANCED CCTV SURVEILLANCE
 
-## Object-Detection-and-Tracking-System-for-CCTV
+By Berk YASAR and [Halil Ibrahim OZCAN](https://github.com/xalil8) <br />
+Advisor: [Assoc. Prof. SAMI ARICA](https://avesis.cu.edu.tr/arica)
 
 + CCTV recordings collected and labelled.
 + YOLOv5 model was used for object detection and bytetrack algorithm was used for object tracking.
