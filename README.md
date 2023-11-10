@@ -15,4 +15,4 @@ https://github.com/yasarberk/Graduation-Thesis/assets/93190355/29e5b337-3c75-436
 
 ## Thesis
 
-[Graduation-Thesis.pdf](https://github.com/yasarberk/Graduation-Thesis/files/12774670/tez_final.2.pdf)
+[Graduation-Thesis.pdf](https://github.com/yasarberk/Graduation-Thesis/files/13323219/graduation-thesis.pdf)
