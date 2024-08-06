@@ -1,7 +1,7 @@
 # Graduation Thesis
 ## EFFICIENT OBJECT DETECTION AND TRACKING SYSTEM USING DEEP LEARNING FOR ENHANCED CCTV SURVEILLANCE
 
-By Berk YASAR and [Halil Ibrahim OZCAN](https://github.com/xalil8) <br />
+By Berk YASAR<br />
 Advisor: [Assoc. Prof. SAMI ARICA](https://avesis.cu.edu.tr/arica)
 
 + CCTV recordings collected and labelled.
